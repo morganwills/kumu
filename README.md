@@ -4,4 +4,6 @@ Kumu.io is one of the coolest platforms in existence. The documentation is reall
 
 For the sake of being able to easily tag and sort them, the snippets are stored in the Discussions section in the "Code Snippets" thread. Keeping them all in this thread and always tagging a snippet allows for ease of searchability.
 
-The wiki in this git repo is for storing useful information for using Kumu that isn't necessarily a snippet of code for the advanced editor!
+There are two other discussion threads: "Good to know" and "Examples and use cases," for storing useful information and examples that aren't necessarily a code snippet or problem solving specific scenarios.
+
+The wiki in this git repo will curate the most salient of these discussion threads.
