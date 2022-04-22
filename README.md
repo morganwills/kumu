@@ -4,4 +4,4 @@ Kumu.io is one of the coolest platforms in existence. The documentation is reall
 
 For the sake of being able to tag and sort code them, the snippets are stored in the Issues section. Keeping them all as "open" issues and always tagging a snippet allows for ease of searchability.
 
-A knowledge base outside of code snippets is found in the Wiki.
+The wiki in this git repo is for storing useful information for using Kumu that isn't necessarily a snippet of code for the advanced editor!
